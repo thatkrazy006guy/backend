@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+PyGithub
+pysrt
+requests
+pydantic
